@@ -1,3 +1,0 @@
-m4
-branch b2 has been created
-create commit b2-m2

@@ -1,0 +1,12 @@
+{
+  "name": "transaction-producer",
+  "version": "1.0.0",
+  "description": "Kafka producer that simulates real-time banking transactions",
+  "main": "producer.js",
+  "scripts": {
+    "start": "node producer.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
